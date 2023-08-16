@@ -1,7 +1,7 @@
 # SIBUDO
 Sistema de Biblioteca UDO
 
-Este proyecto es el resultado del esfuerzo conjunto de un grupo de estudiantes de Ingeniería en Computación que cursan la asignatura de desarrollo de software avanzado, con el propósito de poner en práctica los conocimientos adquiridos durante el curso, decidimos utilizar Django, un framework web de alto nivel basado en Python, para construir una aplicación web robusta y escalable.
+Este proyecto es el resultado del esfuerzo conjunto de un grupo de estudiantes de Ingeniería en Computación, como parte de la asignatura de desarrollo de software avanzado, con el propósito de poner en práctica los conocimientos adquiridos durante el curso, decidimos utilizar Django, un framework web de alto nivel basado en Python, para construir una aplicación web robusta y escalable.
 
 ![view Home](https://github.com/yeisonvirtual/SIBUDO/blob/main/SIBUDO/SIBUDO_app/static/SIBUDO_app/assets/img/Servidor%20Funcionando/home.png)
 
